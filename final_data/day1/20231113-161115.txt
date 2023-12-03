@@ -1,0 +1,10 @@
+rundate = '20231113-161115'
+rate_hz = 10000
+channels = { 'ai3' 'ai7' 'ai5' }
+nchannels = 3
+scale = { '1 V'
+'1 V'
+'1 V'
+}
+scans_per_sweep = 10000
+sweepperiod_s = 1
